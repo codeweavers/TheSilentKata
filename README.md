@@ -1,5 +1,8 @@
 # TheSilentKata
 
+> *The beginning of wisdom is to call things by their right names.* 
+> <br>- Chinese Proverbs
+
 Since you can't talk during this Kata, it only makes sense to try to solve a problem that normally doesn't involve talking.
 
 ## **Countdown**
